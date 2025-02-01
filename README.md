@@ -21,6 +21,9 @@ The **Social Media API** is a robust RESTful API built with Django and Django RE
 - **Cloudinary**: A cloud-based service for media management.
 - **Python Decouple**: A package to help manage settings and environment variables.
 
+##TESTING API ENDPOINTS USING POSTMAN:
+here is a link to the demo video of the postman testing: https://www.youtube.com/watch?v=ngiZmMOz2R4
+
 ## Installation
 
 ### Prerequisites
